@@ -18,7 +18,7 @@
 	<properties>
 		<java.version>17</java.version>
 		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
-		<fastjson.version>1.2.75</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<lombok.version>1.18.12</lombok.version>
 		<hutool.version>5.7.16</hutool.version>
 		<springfox-swagger.version>3.0.0</springfox-swagger.version>
